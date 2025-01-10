@@ -22,6 +22,18 @@ Follow these steps to set up and run the project locally:
 - Git
 - Package manager (npm or yarn)
 
+### Technologies Used
+Node.js: Runtime environment
+Express.js: Web framework
+Sequelize: ORM for database management
+MySQL: Relational database
+dotenv: Environment variable management
+### Future Enhancements
+Role-based access control (RBAC)
+Advanced reporting and analytics
+Integration with payment gateways
+Email and SMS notifications
+
 ### Clone the Repository
 ```bash
 git clone https://github.com/yourusername/gym-management-backend.git
@@ -51,14 +63,4 @@ node src/models/index.js
 Start the Server
 npm start
 
-### Technologies Used
-Node.js: Runtime environment
-Express.js: Web framework
-Sequelize: ORM for database management
-MySQL: Relational database
-dotenv: Environment variable management
-### Future Enhancements
-Role-based access control (RBAC)
-Advanced reporting and analytics
-Integration with payment gateways
-Email and SMS notifications
+
